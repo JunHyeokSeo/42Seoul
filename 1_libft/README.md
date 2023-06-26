@@ -6,8 +6,7 @@
 ---
 
 ### :bulb: Objective
-- to code a C library regrouping functions.
-- the functions will be allowed to use in all other projects.
+- 이 프로젝트의 목적은 C 라이브러리를 만드는 것입니다.
 ---
 
 ### :bulb: List of Functions
@@ -27,17 +26,3 @@
     - ***linked_list*** :
     [`ft_lstnew`](./ft_lstnew.c) [`ft_lstadd_front`](./ft_lstadd_front.c) [`ft_lstsize`](./ft_lstsize.c) [`ft_lstlast`](./ft_lstlast.c) [`ft_lstadd_back`](./ft_lstadd_back.c) [`ft_lstdelone`](./ft_lstdelone.c) [`ft_lstclear`](./ft_lstclear.c) [`ft_lstiter`](./ft_lstiter.c) [`ft_lstmap`](./ft_lstmap.c)
 ---
-
-### :bulb: Useful Links
-- __libftest__ by [_jtoty_](https://github.com/jtoty/Libftest)
-    ```
-    git clone https://github.com/jtoty/Libftest.git
-    ```
-- __unit test__ by [_alelievr_](https://github.com/alelievr/libft-unit-test)
-    ```
-    git clone https://github.com/alelievr/libft-unit-test.git
-    ```
-- __war machine__ by [_ska42_](https://github.com/ska42/libft-war-machine)
-    ```
-    git clone https://github.com/ska42/libft-war-machine.git
-    ```
