@@ -6,9 +6,7 @@
 ***
 
 ### :bulb: Objective
-- to recode __printf__ fuction in C in the well-structured and extensible way
-
-- to learn how to use `variadic arguments`
+가변인자 및 형식지정자의 개념을 이해하고 활용하여 Printf 함수를 작성하는 프로젝트입니다.
 ***
 
 ### :bulb: Codes
@@ -18,6 +16,6 @@
     - ***conversion***: c, s, p, d, i u, x, X, %
     - ***flag***: -, 0, ., *
     - [***Makefile***](./ft_printf/Makefile), [***ft_printf.c***](./ft_printf/ft_printf.c), [***ft_printf.h***](./ft_printf/ft_printf.h)
-    - [***parse_all***](./ft_printf/parse_all.c), [***manage_box.c***](./ft_printf/manage_box.c), [***manage_int_sign.c***](./ft_printf/manage_int_sign.c)
-    - [***print%c***](./ft_printf/print_1_char.c), [***print%s***](./ft_printf/print_2_string.c), [***print%d%i***](./ft_printf/print_3_int.c), [***print%u***](./ft_printf/print_4_unsigned_int.c), [***print%x%X***](./ft_printf/print_5_hexa.c), [***print%p***](./ft_printf/print_6_pointer.c), [***print%%***](./ft_printf/print_7_percent.c)
+    - [***ft_strchr.c***](./ft_printf/ft_strchr.c), [***ft_strlen.c***](./ft_printf/ft_strlen.c), [***print_lst.c***](./ft_printf/print_lst.c)
+    - [***print%c***](./ft_printf/put_chr.c), [***print%s***](./ft_printf/put_str.c), [***print%d%i***](./ft_printf/put_nbr.c), [***print%u***](./ft_printf/put_nbr.c), [***print%x%X***](./ft_printf/put_x.c), [***print%p***](./ft_printf/put_x.c), [***print%%***](./ft_printf/put_per.c)
 ---

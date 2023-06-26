@@ -27,9 +27,3 @@
    - **_requirement 2_**: to be able to manage multiple file descriptors with get_next_line without losing the reading thread on each of the descriptors.
 
 ---
-
-### :bulb: Check if...
-
-- your bonus file includes "get_next_line_bonus.h", not "get_next_line.h"
-
----
