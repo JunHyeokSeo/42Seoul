@@ -15,7 +15,7 @@
 1. Mandatory Part
     - ***conversion***: c, s, p, d, i u, x, X, %
     - ***flag***: -, 0, ., *
-    - [***Makefile***](./ft_printf/Makefile), [***ft_printf.c***](./ft_printf/ft_printf.c), [***ft_printf.h***](./ft_printf/ft_printf.h)
-    - [***ft_strchr.c***](./ft_printf/ft_strchr.c), [***ft_strlen.c***](./ft_printf/ft_strlen.c), [***print_lst.c***](./ft_printf/print_lst.c)
-    - [***print%c***](./ft_printf/put_chr.c), [***print%s***](./ft_printf/put_str.c), [***print%d%i***](./ft_printf/put_nbr.c), [***print%u***](./ft_printf/put_nbr.c), [***print%x%X***](./ft_printf/put_x.c), [***print%p***](./ft_printf/put_x.c), [***print%%***](./ft_printf/put_per.c)
+    - [***Makefile***](./Makefile), [***ft_printf.c***](./ft_printf.c), [***ft_printf.h***](./ft_printf.h)
+    - [***ft_strchr.c***](./ft_strchr.c), [***ft_strlen.c***](./ft_strlen.c), [***print_lst.c***](./print_lst.c)
+    - [***print%c***](./put_chr.c), [***print%s***](./put_str.c), [***print%d%i***](./put_nbr.c), [***print%u***](./put_nbr.c), [***print%x%X***](./put_x.c), [***print%p***](./put_x.c), [***print%%***](./put_per.c)
 ---
