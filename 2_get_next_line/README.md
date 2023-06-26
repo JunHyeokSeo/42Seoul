@@ -8,8 +8,9 @@
 ---
 
 ### :bulb: Objective
+- 파일을 한 줄씩 읽어서 출력하는 프로그램을 작성하는 과제입니다.
+- 해당 과제를 해결하기 위해 Process와 File Descriptor에 대한 이해가 요구됩니다.
 
-- Process와 File Descriptor에 대해 이해하여, 주어진 파일을 한 줄씩 읽어서 출력하는 프로그램을 작성하는 과제입니다.
 ---
 
 ### :bulb: Codes
