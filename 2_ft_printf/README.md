@@ -1,12 +1,12 @@
 # ft_printf
 
 ### :bulb: Evaluation Log
-2. 23/04/13
+1. 23/04/13
     - **100 score** _(mandatory 100 + bonus 0)_
 ***
 
 ### :bulb: Objective
-가변인자 및 형식지정자의 개념을 이해하고 활용하여 Printf 함수를 작성하는 프로젝트입니다.
+- 가변인자 및 형식지정자의 개념을 이해하고 활용하여 Printf 함수를 작성하는 프로젝트입니다.
 ***
 
 ### :bulb: Codes
