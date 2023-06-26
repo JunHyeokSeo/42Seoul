@@ -1,6 +1,8 @@
 # 42Seoul
+42Seoul 본과정을 진행하며 해결했던 과제들을 정리하였음.
+아래 테이블의 제목을 클릭하여 각 과제들을 확인할 수 있음.
 
-| 1 Circle                                                      |
+| Contents                                                      |
 |---------------------------------------------------------------|
 | [Libft](https://github.com/JunHyeokSeo/Libft)                 |
 | [Printf](https://github.com/JunHyeokSeo/Printf)               |
