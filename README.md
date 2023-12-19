@@ -1,4 +1,7 @@
 # 42Seoul
+42Seoul 본과정을 진행하며 해결한 과제들입니다.  
+구현 과제는 C언어를 사용했으며, Makefile을 사용하여 효율적인 build가 가능합니다.
+Born2BeRoot 과제에서는 Debian Linux 서버를 생성하고, WAS 및 Database를 구성하여 WordPress 페이지를 서비스했습니다.
 
 ## Common Circle
 
