@@ -1,8 +1,10 @@
 # 42Seoul
-42Seoul 본과정을 진행하며 해결한 과제들입니다.  
-구현 과제는 C언어를 사용했으며, Makefile을 사용하여 효율적인 build가 가능합니다.  
-Born2BeRoot 과제에서는 Debian Linux 서버를 생성하고,  
-WAS 및 Database를 구성하여 Wordpress 서비스를 배포했습니다.
+|항목|설명|
+| --------- | -------------------- |
+| 작업기간  | 2023.03.31~2023.05.10 |
+| 작업인원  | 1명                  |
+| 작업 툴    | VSCode, C, Makefile, VirtualBox, Debian Linux, Liginttpd, MariaDB, PHP, github |
+| 작업내용  | C언어 함수 구현<br>파일 입출력 및 예외처리 담당<br>Debian Linux를 사용한 FTP 서버 구현 및 Wordpress 서비스 배포 |
 
 
 ## Common Circle
